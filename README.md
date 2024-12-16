@@ -7,7 +7,7 @@ The adder operates on floating point numbers in the IEEE-754-like format, and th
 * Sign (1-bit): Indicates the sign of the floating point number.
 * Exponent (9-bits): Represents the exponent in biased format.
 * Fraction (22-bits): The fractional part of the floating point number.
-* 
+ 
 Additionally, the system checks the validity of the inputs, handles rounding, and normalizes the result according to standard floating point arithmetic conventions.
 
 Features
