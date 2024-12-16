@@ -10,7 +10,7 @@ The adder operates on floating point numbers in the IEEE-754-like format, and th
  
 Additionally, the system checks the validity of the inputs, handles rounding, and normalizes the result according to standard floating point arithmetic conventions.
 
-Features
+## Features
 * Floating Point Adder: Adds two floating point numbers represented as sign, exponent, and fraction components.
 * NaN/Denormalized Checker: Detects Not-a-Number (NaN) and denormalized numbers during addition.
 * Fraction/Exponent Checker: Validates the fraction and exponent components of the inputs.
@@ -23,9 +23,9 @@ This was an Assignment for the course Computer Architecture Sessional (CSE210) f
 
 Team Members:
 
-Anika Morshed (2105068)
+## Anika Morshed (2105068)
 
-Diganta Saha Tirtha (2105081)
+## Diganta Saha Tirtha (2105081)
 
 Department of Computer Science and Engineering
 
